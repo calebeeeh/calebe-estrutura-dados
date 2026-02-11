@@ -11,8 +11,12 @@ Este repositório contém as atividades práticas desenvolvidas durante a discip
 Este espaço é reservado para o registro dos tempos de execução do script `benchmark_inicial.py`.
 
 > **Meu Benchmark:**
-> - **Processador:** [Insira seu modelo de CPU aqui]
-> - **Tempo:** [Insira o tempo aqui]s
+> - **Processador:** intel i5-13420H
+> - **Tempo:** 0.2339 segundos
+
+> **crash test:**
+> - **Processador:** intel i5-13420H
+> - **Tempo:** 3.5700 segundos
 
 ## Como executar
 1. Clone o repositório:
@@ -27,4 +31,5 @@ Este espaço é reservado para o registro dos tempos de execução do script `be
    ```bash
    python hello.py
    ```
+
 
